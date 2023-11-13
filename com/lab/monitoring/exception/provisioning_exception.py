@@ -1,0 +1,2 @@
+class ProvisioningException(Exception):
+    pass
